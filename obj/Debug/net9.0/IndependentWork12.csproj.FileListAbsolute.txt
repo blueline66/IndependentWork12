@@ -1,0 +1,15 @@
+C:\Users\Home\IndependentWork12\IndependentWork12\bin\Debug\net9.0\IndependentWork12.exe
+C:\Users\Home\IndependentWork12\IndependentWork12\bin\Debug\net9.0\IndependentWork12.deps.json
+C:\Users\Home\IndependentWork12\IndependentWork12\bin\Debug\net9.0\IndependentWork12.runtimeconfig.json
+C:\Users\Home\IndependentWork12\IndependentWork12\bin\Debug\net9.0\IndependentWork12.dll
+C:\Users\Home\IndependentWork12\IndependentWork12\bin\Debug\net9.0\IndependentWork12.pdb
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.AssemblyInfoInputs.cache
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.AssemblyInfo.cs
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.csproj.CoreCompileInputs.cache
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.sourcelink.json
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.dll
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\refint\IndependentWork12.dll
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.pdb
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\IndependentWork12.genruntimeconfig.cache
+C:\Users\Home\IndependentWork12\IndependentWork12\obj\Debug\net9.0\ref\IndependentWork12.dll
